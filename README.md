@@ -1,0 +1,2 @@
+# Data-visualization-Business-Analysis-Intership-Task-
+This repository contains data visualization and business analysis internship tasks focused on transforming raw data into meaningful insights through interactive dashboards, charts, and reports. The projects include data cleaning, exploratory data analysis (EDA), KPI tracking, trend analysis, and business performance evaluation using real-world data
